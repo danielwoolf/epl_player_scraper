@@ -180,6 +180,6 @@ base_url = 'http://www.premierleague.com'
 sub_url = '/en-gb/players/index.html?paramSeason=all&paramSearchType=A_TO_Z&paramSelectedPageIndex='
 
 # set start and end pages based on previous runs
-build_url_list(base_url,sub_url,105,272)
+build_url_list(base_url,sub_url,1,251)
 
 
